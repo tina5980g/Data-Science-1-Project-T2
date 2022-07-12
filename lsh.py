@@ -102,4 +102,4 @@ st.line_chart(chart_data)
 
 st.write('\n\n\n')
 st.subheader("Code URL")
-st.markdown("""From: [Github](https://github.com)""")
+st.markdown("""From: [Github](https://github.com/tina5980g/Data-Science-1-Project-T2)""")
